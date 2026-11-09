@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SipCountDiary" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#00558B</item>
+    </style>
+</resources>

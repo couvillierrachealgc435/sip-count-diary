@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sip Count Diary</string>
+    <string name="splash_title">SIP COUNT DIARY</string>
+    <string name="splash_subtitle">A QUIET RECORD OF YOUR DAY</string>
+    <string name="loading">LOADING</string>
+
+    <string name="cta_start">START SIPPING</string>
+    <string name="cta_again">SIP AGAIN</string>
+    <string name="menu">MENU</string>
+
+    <string name="today">TODAY</string>
+    <string name="diary">DIARY</string>
+    <string name="day_diary">DAY DIARY</string>
+    <string name="week">WEEK</string>
+    <string name="rack">RACK</string>
+    <string name="types">TYPES</string>
+    <string name="past_days">PAST DAYS</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="drinks_today">DRINKS TODAY</string>
+    <string name="last_sip">LAST SIP</string>
+    <string name="nothing_logged">NOTHING LOGGED YET</string>
+    <string name="tap_a_vessel">TAP A VESSEL TO ADD A DRINK</string>
+    <string name="no_drinks_today">NO DRINKS LOGGED TODAY</string>
+    <string name="create_first_vessel">CREATE YOUR FIRST VESSEL</string>
+
+    <string name="close_day">CLOSE DAY</string>
+    <string name="close_day_message">The day is saved on this phone and stays editable.</string>
+    <string name="undo_last">UNDO LAST</string>
+    <string name="glass">Glass</string>
+    <string name="glass_state">%1$s of %2$s</string>
+    <string name="total_line">TOTAL %1$s %2$s</string>
+    <string name="target_line">Target %1$s</string>
+    <string name="remaining_line">%1$s left to the target</string>
+    <string name="target_reached">TARGET REACHED</string>
+    <string name="day_logged">DAY LOGGED</string>
+    <string name="result_subtitle">%1$d DRINKS · %2$d TYPES</string>
+    <string name="saved_on_phone">YOUR DAY IS SAVED ON THIS PHONE</string>
+    <string name="percent_value">%1$d%%</string>
+
+    <string name="stat_total">TOTAL</string>
+    <string name="stat_target">TARGET</string>
+    <string name="stat_biggest">BIGGEST SIP</string>
+    <string name="week_total">WEEK TOTAL</string>
+    <string name="day_average">DAY AVERAGE</string>
+    <string name="day_readout">DAY TOTAL %1$s</string>
+    <string name="tap_a_bar">TAP A BAR FOR THAT DAY</string>
+    <string name="day_total">DAY TOTAL %1$s</string>
+    <string name="pick_a_day">PICK A DAY TO REVIEW</string>
+
+    <string name="add_vessel">ADD VESSEL</string>
+    <string name="add_type">ADD TYPE</string>
+    <string name="add_entry">ADD ENTRY</string>
+    <string name="pick_vessel">PICK A VESSEL</string>
+    <string name="entry_time">ENTRY TIME</string>
+    <string name="vessel_editor">VESSEL</string>
+    <string name="vessel_name">Vessel name</string>
+    <string name="vessel_size">SIZE</string>
+    <string name="vessel_art">ART</string>
+    <string name="type_editor">DRINK TYPE</string>
+    <string name="type_name">Type name</string>
+    <string name="type_color">COLOUR</string>
+    <string name="today_count">TODAY %1$d</string>
+
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">Edit</string>
+    <string name="ok">OK</string>
+    <string name="delete_entry">DELETE ENTRY</string>
+    <string name="delete_entry_message">This drink will be removed from the diary.</string>
+
+    <string name="personal_target">PERSONAL TARGET</string>
+    <string name="soft_target">A SOFT TARGET YOU CHOOSE</string>
+    <string name="units">UNITS</string>
+    <string name="unit_ml">ML</string>
+    <string name="unit_oz">OZ</string>
+    <string name="theme">THEME</string>
+    <string name="theme_light">LIGHT</string>
+    <string name="theme_dark">DARK</string>
+    <string name="local_export">LOCAL EXPORT</string>
+    <string name="copy_diary_text">COPY DIARY TEXT</string>
+    <string name="export_hint">Nothing leaves this device.</string>
+    <string name="export_done">The diary text is on the clipboard.</string>
+    <string name="export_label">Sip Count Diary</string>
+    <string name="export_header">SIP COUNT DIARY</string>
+    <string name="about_line">OFFLINE DIARY · NO ACCOUNT · NO HEALTH ADVICE</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="selected">Selected</string>
+    <string name="not_selected">Not selected</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+
+    <string name="day_mon">MON</string>
+    <string name="day_tue">TUE</string>
+    <string name="day_wed">WED</string>
+    <string name="day_thu">THU</string>
+    <string name="day_fri">FRI</string>
+    <string name="day_sat">SAT</string>
+    <string name="day_sun">SUN</string>
+
+    <string name="month_year">%1$s %2$d</string>
+    <string name="month_1">JANUARY</string>
+    <string name="month_2">FEBRUARY</string>
+    <string name="month_3">MARCH</string>
+    <string name="month_4">APRIL</string>
+    <string name="month_5">MAY</string>
+    <string name="month_6">JUNE</string>
+    <string name="month_7">JULY</string>
+    <string name="month_8">AUGUST</string>
+    <string name="month_9">SEPTEMBER</string>
+    <string name="month_10">OCTOBER</string>
+    <string name="month_11">NOVEMBER</string>
+    <string name="month_12">DECEMBER</string>
+</resources>
